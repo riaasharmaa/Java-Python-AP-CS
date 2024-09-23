@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=list
+comment1.target=Numbers(java.util.ArrayList)
+comment1.text=\#\ \n\ 2.\ Write\ the\ parameterized\ constructor\ \n
+comment2.params=size
+comment2.target=Numbers(int)
+comment2.text=\#\ \n\ 3.\ Write\ an\ overloaded\ constructor\ that\ takes\ a\ single\ integer\n\ parameter.\ This\ parameter\ indicates\ how\ big\ to\ make\ the\ \n\ ArrayList.\ Fill\ the\ ArrayList\ with\ multiples\ of\ 5\ starting\n\ at\ 5.\ Don't\ forget\ to\ instantiate\ the\ instance\ variable\!\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getNums()
+comment3.text=\#\ \n\ 4.\ Write\ method\ getNums\ -\ a\ getter\ for\ the\ instance\ variable.\n
+comment4.params=
+comment4.target=int\ removeEven()
+comment4.text=\#\ \n\ 5.\ Write\ method\ removeEven\ that\ deletes\ every\ even\ number\ from\ the\n\ ArrayList.\ This\ method\ takes\ no\ parameters\ and\ returns\ a\ count\ of\ \n\ how\ many\ items\ have\ been\ removed.\n
+comment5.params=
+comment5.target=int\ findMaxLocation()
+comment5.text=\#\ \n\ 6.\ Write\ method\ findMaxLocation\ which\ takes\ no\ parameters\ and\ \n\ returns\ the\ index\ of\ the\ largest\ value\ in\ nums.\ Use\ a\ regular\n\ for-loop\ for\ this\ method.\n
+comment6.params=
+comment6.target=int\ getSum()
+comment6.text=\#\ \n\ 7.\ Write\ method\ getSum\ which\ takes\ no\ parameters\ and\ returns\ the\n\ sum\ of\ the\ values\ in\ nums.\ Use\ a\ for-each\ loop\ for\ this\ method.\n
+comment7.params=
+comment7.target=void\ addNegatives()
+comment7.text=\#\ \n\ 8.\ Write\ method\ addNegatives.\ \ This\ method\ takes\ no\ inputs\ and\ \n\ return\ nothing.\ \ It\ inserts\ the\ number\ -1\ at\ the\ start\ of\ the\ list\ and\ -100\ \n\ at\ the\ end\ of\ the\ list.\ Then\ it\ changes\ whatever\ is\ at\ index\ 3\ to\ be\ -999.\n\ For\ example,\ if\ the\ list\ started\ with\ [2,\ 4,\ 6,\ 7],\ the\ list\ would\ change\n\ to\ be\ [-1,\ 2,\ 4,\ -999,\ 7,\ -100]\ after\ this\ method\ was\ called.\n\ You\ can\ assume\ the\ list\ size\ will\ always\ be\ large\ enough\ not\ to\ cause\n\ outOfBoundsExceptions\ on\ this\ part.\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

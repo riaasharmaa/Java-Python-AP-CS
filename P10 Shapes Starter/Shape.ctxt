@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=l\ c
+comment1.target=Shape(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Shape()
+comment3.params=l
+comment3.target=void\ setLabel(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getLabel()
+comment5.params=c
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
