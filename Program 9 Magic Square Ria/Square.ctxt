@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=filename
+comment1.target=Square(java.lang.String)
+comment2.params=
+comment2.target=int\ size()
+comment3.params=row
+comment3.target=int\ sumRow(int)
+comment4.params=col
+comment4.target=int\ sumCol(int)
+comment5.params=
+comment5.target=int\ sumMainDiag()
+comment6.params=
+comment6.target=int\ sumOtherDiag()
+comment7.params=
+comment7.target=boolean\ magic()
+comment7.text=\#\ Algorithm\ for\ method\ magic()\ goes\ here\n\n
+comment8.params=fileName
+comment8.target=int[][]\ readSquare(java.lang.String)
+comment9.params=
+comment9.target=void\ printSquare()
+numComments=10
