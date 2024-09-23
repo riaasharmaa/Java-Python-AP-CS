@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MCQuestion
+comment0.text=\n\ Write\ a\ description\ of\ class\ MCQuestion\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=que\ ans\ a\ b\ c\ d
+comment1.target=MCQuestion(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=constructor
+comment2.params=A\ B\ C\ D
+comment2.target=void\ setOptions(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Name\:\ setOptions\n\ @param\ String\ a\:\ answer\ option\ A\n\ @param\ String\ b\:\ answer\ option\ B\n\ @param\ String\ c\:\ answer\ option\ C\n\ @param\ String\ d\:\ answer\ option\ D\n\ @\ return\:\ none\n\ Operation\:\ update\ the\ answer\ options\ for\ this\ question\n
+comment3.params=
+comment3.target=java.lang.String\ getQuestion()
+comment3.text=\n\ Name\:\ getQuestion\n\ @param\:\ none\n\ @return\:\ String\ representing\ the\ question\ plus\n\ the\ answer\ options\ appended\ to\ the\ end\ as\ shown\ here\:\n\ \ \ \ Question\ Text\n\ \ \ \ A.\ choice\ A\n\ \ \ \ B.\ choice\ B\n\ \ \ \ C.\ choice\ C\n\ \ \ \ D.\ choice\ D\n\ \ \ \ Enter\ Choice\:\ \n
+numComments=4

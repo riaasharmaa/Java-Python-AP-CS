@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Question
+comment0.text=\n\ Write\ a\ description\ of\ class\ Question\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=q\ a
+comment1.target=Question(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getQuestion()
+comment3.params=
+comment3.target=java.lang.String\ getAnswer()
+comment4.params=ques
+comment4.target=void\ setQuestion(java.lang.String)
+comment5.params=ans
+comment5.target=void\ setAnswer(java.lang.String)
+numComments=6

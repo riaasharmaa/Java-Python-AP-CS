@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TFQuestion
+comment0.text=\n\ Write\ a\ description\ of\ class\ TFQuestion\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=q\ a
+comment1.target=TFQuestion(java.lang.String,\ java.lang.String)
+comment1.text=constructor
+comment2.params=
+comment2.target=java.lang.String\ getQuestion()
+comment2.text=\n\ Name\:\ getQuestion\n\ @param\:\ none\n\ @return\:\ String\ representing\ the\ question\ plus\n\ the\ help\ prompt\ "\ (true\ or\ false)\:\ "\ appended\ to\ the\n\ end\n
+comment3.params=a
+comment3.target=void\ setAnswer(java.lang.String)
+comment3.text=\n\ Name\:\ setAnswer\n\ @param\:\ String\ a\:\ the\ answer\ to\ be\ saved\n\ @return\:\ none\n\ Operation\:\ if\ the\ answer\ is\ being\ changed\ to\ either\n\ "true"\ or\ "false",\ update\ the\ instance\ variable.\n\ Do\ NOT\ update\ the\ variable\ if\ any\ other\ answer\ is\n\ provided.\n
+numComments=4

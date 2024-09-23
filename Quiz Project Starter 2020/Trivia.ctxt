@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Trivia
+comment1.params=
+comment1.target=Trivia()
+comment2.params=q
+comment2.target=void\ addQuestion(Question)
+comment2.text=\n\ Name\:\ addQuestion\n\ @param\:\ q\ -\ a\ Question\ object\n\ @return\:\ none\n\ Operation\:\ adds\ the\ provided\ question\ object\ to\ \n\ the\ end\ of\ the\ ArrayList\ questions.\n
+comment3.params=q
+comment3.target=java.lang.String\ getAnswer(Question)
+comment3.text=\ \n\ Name\:\ getAnswer\n\ @param\ q\:\ a\ Question\ object\n\ @return\ \:\ String\ representing\ the\ user\ supplied\ answer.\n\ Operation\:\ Prints\ out\ the\ question\ text\ from\ the\ \n\ given\ input\ Question\ object,\ takes\ input\ from\ the\n\ user\ (use\ a\ Scanner\ and\ the\ .next()\ method),\ and\ \n\ returns\ the\ user\ entered\ value.\n
+comment4.params=q\ a
+comment4.target=boolean\ checkAnswer(Question,\ java.lang.String)
+comment4.text=\n\ Name\:\ checkAnswer\n\ @param\ q\:\ a\ Question\ object\n\ @param\ a\:\ String\ -\ the\ user's\ answer\ to\ the\ question\n\ @return\:\ boolean\ -\ True\ if\ the\ user's\ answer\ is\ \n\ \ \ \ \ \ \ \ \ \ correct,\ False\ otherwise.\n\ Operation\:\ compares\ the\ user's\ answer\ to\ the\ answer\n\ from\ the\ Question\ object.\ Returns\ True\ if\ they\ match\n
+comment5.params=
+comment5.target=void\ play()
+comment5.text=\n\ Name\:\ Play\n\ @param\:\ none\n\ @return\:\ none\n\ Operation\:\ For\ each\ Question,\ calls\ getAnswer\ to\ \n\ print\ the\ question\ and\ get\ user\ response,\ then\n\ calls\ checkAnswer\ to\ validate\ user\ input.\n\ Score\ is\ updated\ for\ correct\ answers\ and\n\ a\ correct/incorrect\ message\ is\ printed\ after\ each\n\ question.\ Once\ all\ questions\ have\ been\ asked,\ the\n\ player's\ final\ score\ is\ printed.\n
+numComments=6

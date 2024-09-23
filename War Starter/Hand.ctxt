@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hand
+comment0.text=\n\ Write\ a\ description\ of\ class\ Hand\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Hand()
+comment2.params=newCard
+comment2.target=void\ addCard(Card)
+comment3.params=
+comment3.target=int\ getHandSize()
+comment4.params=
+comment4.target=Card\ getCard()
+comment5.params=
+comment5.target=void\ printHand()
+comment6.params=
+comment6.target=Card\ getTop()
+numComments=7
